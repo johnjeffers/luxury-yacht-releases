@@ -1,2 +1,5 @@
-# luxury-yacht-releases
-Sail the Seas of Kubernetes in Style
+# Luxury Yachy Releases
+
+Luxury Yacht - Sail the Seas of Kubernetes in Style!
+
+This repo is only for hosting public releases of Luxury Yacht.
