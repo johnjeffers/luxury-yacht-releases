@@ -1,4 +1,4 @@
-# Luxury Yachy Releases
+# Luxury Yacht Releases
 
 Luxury Yacht - Sail the Seas of Kubernetes in Style!
 
