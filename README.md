@@ -4,6 +4,8 @@ Sail the Seas of Kubernetes in Style!
 
 Luxury Yacht is a Kubernetes object brower and manager. It's a friendly, useful GUI interface to your Kubernetes cluster.
 
+[Get the latest beta here](https://github.com/johnjeffers/luxury-yacht-releases/releases)
+
 ## Feedback
 
 Please open an issue to leave feedback.
@@ -29,7 +31,7 @@ Honestly, I don't know yet. Maybe. But if I do, it'll be very reasonable, and it
 In a private repo. I'm not open-sourcing it because I'm not sure yet if I want to make it a commercial app. I figure that's preferable to making it open-source, and then pulling the rug later if I change my mind.
 
 #### Why do the betas expire?
-Well, they're betas. I don't want them in the wild for too long. When it expires, go to the Releases page to get the latest beta.
+Well, they're betas. I don't want them in the wild for too long. When it expires, go to the [Releases](https://github.com/johnjeffers/luxury-yacht-releases/releases) page to get the latest beta.
 
 #### Will the betas auto-update?
 Unfortunately, no. The [framework](https://wails.io) I decided on for the app doesn't support auto-update, yet.
