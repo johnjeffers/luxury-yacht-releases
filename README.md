@@ -2,7 +2,7 @@
 
 Sail the Seas of Kubernetes in Style!
 
-Luxury Yacht is a Kubernetes object brower and manager. It's a friendly, useful GUI interface to your Kubernetes cluster.
+Luxury Yacht is a Kubernetes object browser and manager. It's a friendly, useful GUI interface to your Kubernetes cluster.
 
 [Get the latest beta here](https://github.com/johnjeffers/luxury-yacht-releases/releases)
 
